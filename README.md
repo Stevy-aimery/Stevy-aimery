@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Stévy Koumba Moukagni</h1>
+<h1 align="center">👋 Hi, I'm Stévy Koumba Moukagni</h1>
 <h3 align="center" color="yellow">Web developer</h3>
 <h2 align="center">I am passionate about everything related to IT</h3>
 
